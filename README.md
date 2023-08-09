@@ -5,8 +5,8 @@ An app that tests your general knowledge about various subjects. All questions a
 
 ---
 
-## CONFIGURATION - Difficulty
-1. In data.py there are two parameters that are gray out (they are not taken into account):  
+## CONFIGURATION - Difficulty  
+In data.py there are two parameters that are gray out (they are not taken into account):  
 "# "category": 18,"  
 "# "difficulty": "hard","  
 If you want the request to take any of these into account simply remove the #.
